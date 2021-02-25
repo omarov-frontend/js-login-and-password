@@ -8,3 +8,7 @@
 > ***Данные для задачи:***
 > **Логины:** Ivan, Alex, Petr
 > **Пароли:** 334455, 777, p5678
+
+---
+
+Demo - https://omarov-frontend.github.io/js-login-and-password/
