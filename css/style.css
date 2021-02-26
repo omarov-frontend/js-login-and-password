@@ -9,19 +9,20 @@ body {
 }
 
 .wrapper {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin-top: 100px;
 }
 
-#login,
-#password {
+input {
     padding: 3px 5px;
     outline: none;
     border: none;
 }
 
-#login:focus,
-#password:focus {
+input:focus {
     outline: 1px solid #1cfcb1;
 }
 
@@ -31,6 +32,6 @@ body {
     width: 100px;
 }
 
-p {
+label {
     margin-bottom: 10px;
 }
