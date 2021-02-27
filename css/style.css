@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #268666;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+input {
+    padding: 3px 5px;
+    outline: none;
+    border: none;
+}
+
+input:focus {
+    outline: 1px solid #1cfcb1;
+}
+
+#button {
+    padding: 3px 5px;
+    cursor: pointer;
+    width: 100px;
+}
+
+label {
+    margin-bottom: 10px;
+}
