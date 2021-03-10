@@ -11,4 +11,4 @@
 
 ---
 
-Demo - https://omarov-frontend.github.io/js-login-and-password/
+Demo - https://omarovfrontend.github.io/js-login-and-password/
